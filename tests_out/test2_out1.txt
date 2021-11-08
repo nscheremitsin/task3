@@ -1,0 +1,4 @@
+Container has 3 elements:
+Ball.                       r = 1000.                Volume = 4188790204.7863903.  Density = 1.0
+Regular tetrahedron.        a = 1000.                Volume = 117851130.19775791.  Density = 1.0
+Rectangular parallelepiped. a = 1000, b = 1000, c = 1000.  Volume = 1000000000.  Density = 1.0

@@ -1,0 +1,11 @@
+Container has 10 elements:
+Ball.                       r = 1.                Volume = 4.1887902047863905.  Density = 1.925
+Rectangular parallelepiped. a = 3, b = 9, c = 2.  Volume = 54.  Density = 1.1219999999999999
+Ball.                       r = 7.                Volume = 1436.7550402417319.  Density = 1.08
+Regular tetrahedron.        a = 4.                Volume = 7.542472332656508.  Density = 3.355
+Regular tetrahedron.        a = 9.                Volume = 85.91347391416554.  Density = 5.292
+Regular tetrahedron.        a = 1.                Volume = 0.11785113019775793.  Density = 5.268
+Rectangular parallelepiped. a = 6, b = 4, c = 8.  Volume = 192.  Density = 5.362
+Regular tetrahedron.        a = 2.                Volume = 0.9428090415820635.  Density = 4.638
+Ball.                       r = 5.                Volume = 523.5987755982989.  Density = 2.035
+Ball.                       r = 3.                Volume = 113.09733552923254.  Density = 8.012
